@@ -58,5 +58,25 @@
         "additionalData": "0x",
         "pair": "WETH-ICHI",
         "ALM": "ICHI"
+    },
+    {
+        "id": 65,
+        "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "uniV3Pool": "0xa34Cd266ff045CaB3C4704461118EE610766D7a1",
+        "rewardToken": "0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6",
+        "amount": "1",
+        "positionWrappers": ["0x891F0c3159aCf7306c0c252757310db8F47B59B2"],
+        "wrapperTypes": [0],
+        "propToken0": "0",
+        "propToken1": "7000",
+        "propFees": "3000",
+        "epochStart": "100",
+        "numEpoch": "168",
+        "isOutOfRangeIncentivized": 1,
+        "boostedReward": 0,
+        "boostingAddress": "0x0000000000000000000000000000000000000000",
+        "additionalData": "0x",
+        "pair": "WETH-ICHI",
+        "ALM": "ICHI"
     }
 ]
