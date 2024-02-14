@@ -1462,7 +1462,7 @@
         "additionalData": "0x",
         "pair": "USDV-USDC.e",
         "ALM": "all"
-    }
+    },
     {
         "id": 73,
         "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
@@ -1482,5 +1482,5 @@
         "additionalData": "0x",
         "pair": "USDC Native-QUICK",
         "ALM": "all"
-    },
+    }
 ]
