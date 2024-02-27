@@ -68,54 +68,6 @@
         "ALM": "ICHI"
     },
     {
-        "id": 4,
-        "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
-        "uniV3Pool": "0x479e1B71A702a595e19b6d5932CD5c863ab57ee0",
-        "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "300",
-        "positionWrappers": [
-            "0x07d82761C3527Caf190b946e13d5C11291194aE6"
-        ],
-        "wrapperTypes": [
-            0
-        ],
-        "propToken0": "500",
-        "propToken1": "3500",
-        "propFees": "6000",
-        "epochStart": "100",
-        "numEpoch": "168",
-        "isOutOfRangeIncentivized": 1,
-        "boostedReward": 0,
-        "boostingAddress": "0x0000000000000000000000000000000000000000",
-        "additionalData": "0x",
-        "pair": "WMATIC-WETH",
-        "ALM": "DefiEdge"
-    },
-    {
-        "id": 5,
-        "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
-        "uniV3Pool": "0x479e1B71A702a595e19b6d5932CD5c863ab57ee0",
-        "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "1200",
-        "positionWrappers": [
-            "0xd778C83E7cA19c2217d98daDACf7fD03B79B18cB"
-        ],
-        "wrapperTypes": [
-            0
-        ],
-        "propToken0": "500",
-        "propToken1": "500",
-        "propFees": "9000",
-        "epochStart": "100",
-        "numEpoch": "168",
-        "isOutOfRangeIncentivized": 0,
-        "boostedReward": 0,
-        "boostingAddress": "0x0000000000000000000000000000000000000000",
-        "additionalData": "0x",
-        "pair": "WMATIC-WETH",
-        "ALM": "DefiEdge"
-    },
-    {
         "id": 6,
         "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "uniV3Pool": "0xAE81FAc689A1b4b1e06e7ef4a2ab4CD8aC0A087D",
@@ -134,30 +86,6 @@
         "additionalData": "0x",
         "pair": "WMATIC-USDC.e",
         "ALM": "all"
-    },
-    {
-        "id": 7,
-        "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
-        "uniV3Pool": "0xAE81FAc689A1b4b1e06e7ef4a2ab4CD8aC0A087D",
-        "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "750",
-        "positionWrappers": [
-            "0x29f177EFF806b8A71Ff8C7259eC359312CaCE22D"
-        ],
-        "wrapperTypes": [
-            0
-        ],
-        "propToken0": "500",
-        "propToken1": "500",
-        "propFees": "9000",
-        "epochStart": "100",
-        "numEpoch": "168",
-        "isOutOfRangeIncentivized": 1,
-        "boostedReward": 0,
-        "boostingAddress": "0x0000000000000000000000000000000000000000",
-        "additionalData": "0x",
-        "pair": "WMATIC-USDC.e",
-        "ALM": "DefiEdge"
     },
     {
         "id": 8,
@@ -248,30 +176,6 @@
         "ALM": "all"
     },
     {
-        "id": 12,
-        "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
-        "uniV3Pool": "0x55CAaBB0d2b704FD0eF8192A7E35D8837e678207",
-        "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "750",
-        "positionWrappers": [
-            "0x8E7b68E3ce0219e73BC8f237916875F6BE8d79f9"
-        ],
-        "wrapperTypes": [
-            0
-        ],
-        "propToken0": "500",
-        "propToken1": "500",
-        "propFees": "9000",
-        "epochStart": "100",
-        "numEpoch": "168",
-        "isOutOfRangeIncentivized": 0,
-        "boostedReward": 0,
-        "boostingAddress": "0x0000000000000000000000000000000000000000",
-        "additionalData": "0x",
-        "pair": "WETH-USDC.e",
-        "ALM": "DefiEdge"
-    },
-    {
         "id": 13,
         "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "uniV3Pool": "0xa6AeDF7c4Ed6e821E67a6BfD56FD1702aD9a9719",
@@ -310,30 +214,6 @@
         "additionalData": "0x",
         "pair": "WBTC-USDC.e",
         "ALM": "all"
-    },
-    {
-        "id": 15,
-        "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
-        "uniV3Pool": "0xA5CD8351Cbf30B531C7b11B0D9d3Ff38eA2E280f",
-        "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "750",
-        "positionWrappers": [
-            "0x392fEA7d91713630dED6D71bEfE388DA9FA85E8d"
-        ],
-        "wrapperTypes": [
-            0
-        ],
-        "propToken0": "500",
-        "propToken1": "500",
-        "propFees": "9000",
-        "epochStart": "100",
-        "numEpoch": "168",
-        "isOutOfRangeIncentivized": 0,
-        "boostedReward": 0,
-        "boostingAddress": "0x0000000000000000000000000000000000000000",
-        "additionalData": "0x",
-        "pair": "WBTC-USDC.e",
-        "ALM": "DefiEdge"
     },
     {
         "id": 16,
@@ -656,7 +536,7 @@
         "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "uniV3Pool": "0xa56796f13566c515471A2fBBAB731F88cE5DE428",
         "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "1000",
+        "amount": "750",
         "positionWrappers": [],
         "wrapperTypes": [],
         "propToken0": "500",
@@ -716,7 +596,7 @@
         "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "uniV3Pool": "0x384d2094D0Df788192043a1CBd200308DD60b068",
         "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "3000",
+        "amount": "2750",
         "positionWrappers": [],
         "wrapperTypes": [],
         "propToken0": "500",
@@ -972,30 +852,6 @@
         "ALM": "all"
     },
     {
-        "id": 48,
-        "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
-        "uniV3Pool": "0x00A6177C6455A29B8dAa7144B2bEfc9F2147BB7E",
-        "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "500",
-        "positionWrappers": [
-            "0x4f53F458F4F00ad2Dd7e7177cebE1a2AFc38AB9E"
-        ],
-        "wrapperTypes": [
-            0
-        ],
-        "propToken0": "500",
-        "propToken1": "500",
-        "propFees": "9000",
-        "epochStart": "100",
-        "numEpoch": "168",
-        "isOutOfRangeIncentivized": 0,
-        "boostedReward": 0,
-        "boostingAddress": "0x0000000000000000000000000000000000000000",
-        "additionalData": "0x",
-        "pair": "WMATIC-CRV",
-        "ALM": "DefiEdge"
-    },
-    {
         "id": 49,
         "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "uniV3Pool": "0xAb52931301078E2405c3a3EBB86e11ad0dFD2CfD",
@@ -1154,30 +1010,6 @@
         "additionalData": "0x",
         "pair": "AAVE-WETH",
         "ALM": "all"
-    },
-    {
-        "id": 59,
-        "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
-        "uniV3Pool": "0x44720A6f572649526Ac9073caE9200755cc78e0A",
-        "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "500",
-        "positionWrappers": [
-            "0x5B770a2d5d70cb6d71d4Fdc8C02776F05A8C3742"
-        ],
-        "wrapperTypes": [
-            0
-        ],
-        "propToken0": "500",
-        "propToken1": "500",
-        "propFees": "9000",
-        "epochStart": "100",
-        "numEpoch": "168",
-        "isOutOfRangeIncentivized": 0,
-        "boostedReward": 0,
-        "boostingAddress": "0x0000000000000000000000000000000000000000",
-        "additionalData": "0x",
-        "pair": "AAVE-WETH",
-        "ALM": "DefiEdge"
     },
     {
         "id": 60,
@@ -1408,7 +1240,7 @@
         "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "uniV3Pool": "0x125dd79232A16C557055d469258F5732e7B8b94b",
         "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "750",
+        "amount": "1500",
         "positionWrappers": [],
         "wrapperTypes": [],
         "propToken0": "250",
@@ -1428,7 +1260,7 @@
         "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "uniV3Pool": "0x125dd79232A16C557055d469258F5732e7B8b94b",
         "rewardToken": "0x323665443CEf804A3b5206103304BD4872EA4253",
-        "amount": "120",
+        "amount": "240",
         "positionWrappers": [],
         "wrapperTypes": [],
         "propToken0": "250",
@@ -1522,5 +1354,85 @@
         "additionalData": "0x",
         "pair": "USDC Native-Matic",
         "ALM": "all"
+    },
+    {
+        "id": 77,
+        "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "uniV3Pool": "0x5b41EEDCfC8e0AE47493d4945Aa1AE4fe05430ff",
+        "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
+        "amount": "1500",
+        "positionWrappers": ["0x30a41611bcbcb69e88eced632105ffb5d3ae947c"],
+        "wrapperTypes": [],
+        "propToken0": "500",
+        "propToken1": "500",
+        "propFees": "9000",
+        "epochStart": "100",
+        "numEpoch": "168",
+        "isOutOfRangeIncentivized": 0,
+        "boostedReward": 0,
+        "boostingAddress": "0x0000000000000000000000000000000000000000",
+        "additionalData": "0x",
+        "pair": "WMATIC-USDT",
+        "ALM": "DefiEdge"
+    },
+    {
+        "id": 78,
+        "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "uniV3Pool": "0xAC4494e30a85369e332BDB5230d6d694d4259DbC",
+        "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
+        "amount": "1500",
+        "positionWrappers": ["0x8b207ca0b5602fecf38dbc748900b7f5c5903f12"],
+        "wrapperTypes": [],
+        "propToken0": "500",
+        "propToken1": "500",
+        "propFees": "9000",
+        "epochStart": "100",
+        "numEpoch": "168",
+        "isOutOfRangeIncentivized": 0,
+        "boostedReward": 0,
+        "boostingAddress": "0x0000000000000000000000000000000000000000",
+        "additionalData": "0x",
+        "pair": "WBTC-WETH",
+        "ALM": "DefiEdge"
+    },
+{
+        "id": 79,
+        "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "uniV3Pool": "0x9F1A8cAF3C8e94e43aa64922d67dFf4dc3e88A42",
+        "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
+        "amount": "1500",
+        "positionWrappers": ["0x35e07a3ad7dbfd87114a5f0a11930e42339c5e63"],
+        "wrapperTypes": [],
+        "propToken0": "500",
+        "propToken1": "500",
+        "propFees": "9000",
+        "epochStart": "100",
+        "numEpoch": "168",
+        "isOutOfRangeIncentivized": 0,
+        "boostedReward": 0,
+        "boostingAddress": "0x0000000000000000000000000000000000000000",
+        "additionalData": "0x",
+        "pair": "WMATIC-QUICK",
+        "ALM": "DefiEdge"
+    },
+{
+        "id": 80,
+        "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "uniV3Pool": "0xDE2D1fd2E8238aBA80a5B80c7262E4833D92f624",
+        "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
+        "amount": "1000",
+        "positionWrappers": ["0x4f5e0df21608cd454fd75d106bccee1d2ede341c"],
+        "wrapperTypes": [],
+        "propToken0": "500",
+        "propToken1": "500",
+        "propFees": "9000",
+        "epochStart": "100",
+        "numEpoch": "168",
+        "isOutOfRangeIncentivized": 0,
+        "boostedReward": 0,
+        "boostingAddress": "0x0000000000000000000000000000000000000000",
+        "additionalData": "0x",
+        "pair": "QUICK-WETH",
+        "ALM": "DefiEdge"
     }
 ]
