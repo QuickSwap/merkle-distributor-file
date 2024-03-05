@@ -4,7 +4,7 @@
         "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "uniV3Pool": "0x479e1B71A702a595e19b6d5932CD5c863ab57ee0",
         "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "24000",
+        "amount": "23000",
         "positionWrappers": [],
         "wrapperTypes": [],
         "propToken0": "500",
@@ -72,7 +72,7 @@
         "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "uniV3Pool": "0xAE81FAc689A1b4b1e06e7ef4a2ab4CD8aC0A087D",
         "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "23000",
+        "amount": "22000",
         "positionWrappers": [],
         "wrapperTypes": [],
         "propToken0": "500",
@@ -160,7 +160,7 @@
         "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "uniV3Pool": "0x55CAaBB0d2b704FD0eF8192A7E35D8837e678207",
         "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "43500",
+        "amount": "41500",
         "positionWrappers": [],
         "wrapperTypes": [],
         "propToken0": "500",
@@ -356,7 +356,7 @@
         "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "uniV3Pool": "0x9F1A8cAF3C8e94e43aa64922d67dFf4dc3e88A42",
         "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "2850",
+        "amount": "2750",
         "positionWrappers": [
             "0x74B706767F18A360c0083854AB42C1b96E076229"
         ],
@@ -400,7 +400,7 @@
         "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "uniV3Pool": "0xDE2D1fd2E8238aBA80a5B80c7262E4833D92f624",
         "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "8500",
+        "amount": "8250",
         "positionWrappers": [],
         "wrapperTypes": [],
         "propToken0": "500",
@@ -444,7 +444,7 @@
         "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "uniV3Pool": "0xDE2D1fd2E8238aBA80a5B80c7262E4833D92f624",
         "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "2850",
+        "amount": "2750",
         "positionWrappers": [
             "0xe8Aa60c966eE8BE1340aBf1d871D0163d5739B95"
         ],
@@ -536,7 +536,7 @@
         "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "uniV3Pool": "0xa56796f13566c515471A2fBBAB731F88cE5DE428",
         "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "750",
+        "amount": "500",
         "positionWrappers": [],
         "wrapperTypes": [],
         "propToken0": "500",
@@ -596,7 +596,7 @@
         "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "uniV3Pool": "0x384d2094D0Df788192043a1CBd200308DD60b068",
         "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "2750",
+        "amount": "2500",
         "positionWrappers": [],
         "wrapperTypes": [],
         "propToken0": "500",
@@ -776,7 +776,7 @@
         "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "uniV3Pool": "0x194257104FabFd9f48bD01bd71A719637B4bbfA9",
         "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "300",
+        "amount": "500",
         "positionWrappers": [],
         "wrapperTypes": [],
         "propToken0": "500",
@@ -1076,7 +1076,7 @@
         "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "uniV3Pool": "0xa34Cd266ff045CaB3C4704461118EE610766D7a1",
         "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "2850",
+        "amount": "2750",
         "positionWrappers": [
             "0x891F0c3159aCf7306c0c252757310db8F47B59B2"
         ],
@@ -1148,7 +1148,7 @@
         "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "uniV3Pool": "0x022df0b3341b3a0157eea97dd024a93f7496d631",
         "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "2150",
+        "amount": "2000",
         "positionWrappers": [
             "0x425D80e10A8103bedb57F5C08FF8d59253D6a259"
         ],
@@ -1196,7 +1196,7 @@
         "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "uniV3Pool": "0x5874d4f1403ece204a2ee7066f6444a635d81dd1",
         "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "2850",
+        "amount": "2750",
         "positionWrappers": [
             "0x4D469cA8f3F67ef276c8d660E60fAc73067e298d"
         ],
@@ -1280,7 +1280,7 @@
         "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "uniV3Pool": "0x14Ef96A0f7d738Db906bdD5260E46AA47B1e6E45",
         "rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
-        "amount": "1000",
+        "amount": "1250",
         "positionWrappers": [],
         "wrapperTypes": [],
         "propToken0": "500",
