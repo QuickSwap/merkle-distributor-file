@@ -480,26 +480,6 @@
 "ALM": "all"
 },
 {
-"id": 25, 
-"rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
-"uniV3Pool": "0x6b7a1606558f586ffa1fad23a1ab84ccb9155b00", 
-"rewardToken": "0x958d208Cdf087843e9AD98d23823d32E17d723A1", 
-"amount": "0", 
-"positionWrappers": [], 
-"wrapperTypes": [], 
-"propToken0": "250", 
-"propToken1": "250", 
-"propFees": "9500", 
-"epochStart": "100", 
-"numEpoch": "168", 
-"isOutOfRangeIncentivized": 0, 
-"boostedReward": 0, 
-"boostingAddress": "0x0000000000000000000000000000000000000000", 
-"additionalData": "0x", 
-"pair": "Usdc.e-AxlUsdc", 
-"ALM": "all"
-},
-{
 "id": 26, 
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0x370404A2A57eDfbEaF16Dc8ef8E2d1B0a2A9da15", 
