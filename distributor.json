@@ -464,7 +464,7 @@
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0x194257104fabfd9f48bd01bd71a719637b4bbfa9", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
-"amount": "300", 
+"amount": "End", 
 "positionWrappers": [], 
 "wrapperTypes": [], 
 "propToken0": "1500", 
