@@ -4,7 +4,7 @@
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0x479e1B71A702a595e19b6d5932CD5c863ab57ee0", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
-"amount": "14000", 
+"amount": "12000", 
 "positionWrappers": [], 
 "wrapperTypes": [], 
 "propToken0": "1000", 
@@ -24,7 +24,7 @@
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0xae81fac689a1b4b1e06e7ef4a2ab4cd8ac0a087d", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
-"amount": "12000", 
+"amount": "10000", 
 "positionWrappers": [], 
 "wrapperTypes": [], 
 "propToken0": "1000", 
@@ -44,7 +44,7 @@
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0x5b41eedcfc8e0ae47493d4945aa1ae4fe05430ff", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
-"amount": "6000", 
+"amount": "5500", 
 "positionWrappers": [], 
 "wrapperTypes": [], 
 "propToken0": "1000", 
@@ -64,7 +64,7 @@
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0x55caabb0d2b704fd0ef8192a7e35d8837e678207", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
-"amount": "18000", 
+"amount": "10000", 
 "positionWrappers": [], 
 "wrapperTypes": [], 
 "propToken0": "1000", 
@@ -84,7 +84,7 @@
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0xa6AeDF7c4Ed6e821E67a6BfD56FD1702aD9a9719", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
-"amount": "3000", 
+"amount": "10000", 
 "positionWrappers": [], 
 "wrapperTypes": [], 
 "propToken0": "1000", 
@@ -104,7 +104,7 @@
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0xa5cd8351cbf30b531c7b11b0d9d3ff38ea2e280f", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
-"amount": "3250", 
+"amount": "3000", 
 "positionWrappers": [], 
 "wrapperTypes": [], 
 "propToken0": "1000", 
@@ -124,7 +124,7 @@
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0xac4494e30a85369e332bdb5230d6d694d4259dbc", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
-"amount": "9000", 
+"amount": "8500", 
 "positionWrappers": [], 
 "wrapperTypes": [], 
 "propToken0": "1000", 
@@ -224,7 +224,7 @@
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0x9ceff2f5138fc59eb925d270b8a7a9c02a1810f2", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
-"amount": "6000", 
+"amount": "5500", 
 "positionWrappers": [], 
 "wrapperTypes": [], 
 "propToken0": "1000", 
@@ -284,7 +284,7 @@
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0xd85a25332b57cc447a791100e7317e534d553761", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
-"amount": "1750", 
+"amount": "1500", 
 "positionWrappers": [], 
 "wrapperTypes": [], 
 "propToken0": "1500", 
@@ -400,7 +400,7 @@
 "ALM": "all"
 },
 {
-"id": 22, 
+"id": 21, 
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0x370404A2A57eDfbEaF16Dc8ef8E2d1B0a2A9da15", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
@@ -420,7 +420,7 @@
 "ALM": "all"
 },
 {
-"id": 23, 
+"id": 22, 
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0x00a6177c6455a29b8daa7144b2befc9f2147bb7e", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
@@ -440,7 +440,7 @@
 "ALM": "all"
 },
 {
-"id": 24, 
+"id": 23, 
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0xab52931301078e2405c3a3ebb86e11ad0dfd2cfd", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
@@ -460,7 +460,7 @@
 "ALM": "all"
 },
 {
-"id": 26, 
+"id": 24, 
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0x44720A6f572649526Ac9073caE9200755cc78e0A", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
@@ -480,7 +480,7 @@
 "ALM": "all"
 },
 {
-"id": 27, 
+"id": 25, 
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0xF10C5d3bAD214402C9a59b1170BE00A9752317af", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
@@ -500,7 +500,7 @@
 "ALM": "all"
 },
 {
-"id": 28, 
+"id": 26, 
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0x76D9553f9910c5CF1F5dBbb210dc95BC5a63EE68", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
@@ -520,7 +520,7 @@
 "ALM": "all"
 },
 {
-"id": 29, 
+"id": 27, 
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0x0e3Eb2C75Bd7dD0e12249d96b1321d9570764D77", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
@@ -540,7 +540,7 @@
 "ALM": "all"
 },
 {
-"id": 30, 
+"id": 28, 
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0xBC8f3da0bd42E1F2509cd8671Ce7c7E5f7fd39c8", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
@@ -560,11 +560,11 @@
 "ALM": "all"
 },
 {
-"id": 31, 
+"id": 29, 
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0x6669B4706cC152F359e947BCa68E263A87c52634", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
-"amount": "12000", 
+"amount": "10000", 
 "positionWrappers": [], 
 "wrapperTypes": [], 
 "propToken0": "1000", 
@@ -580,7 +580,7 @@
 "ALM": "all"
 },
 {
-"id": 32, 
+"id": 30, 
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0xdb975b96828352880409e86d5aE93c23c924f812", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
@@ -600,7 +600,7 @@
 "ALM": "all"
 },
 {
-"id": 33, 
+"id": 31, 
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0xc10a06863f858f67C2Cd46F1675eE029D3F7acd8", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
@@ -620,47 +620,7 @@
 "ALM": "all"
 },
 {
-"id": 34, 
-"rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
-"uniV3Pool": "0xCad897389Fd7f97592fE8D426A61e14BF4dA36C0", 
-"rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
-"amount": "300", 
-"positionWrappers": [], 
-"wrapperTypes": [], 
-"propToken0": "1500", 
-"propToken1": "1500", 
-"propFees": "7000", 
-"epochStart": "100", 
-"numEpoch": "168", 
-"isOutOfRangeIncentivized": 0, 
-"boostedReward": 0, 
-"boostingAddress": "0x0000000000000000000000000000000000000000", 
-"additionalData": "0x", 
-"pair": "Radar-matic", 
-"ALM": "all"
-},
-{
-"id": 35, 
-"rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
-"uniV3Pool": "0x1d319C88191961Dace407F963d82dEFE8C1A4814", 
-"rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
-"amount": "500", 
-"positionWrappers": [], 
-"wrapperTypes": [], 
-"propToken0": "1000", 
-"propToken1": "1000", 
-"propFees": "8000", 
-"epochStart": "100", 
-"numEpoch": "168", 
-"isOutOfRangeIncentivized": 0, 
-"boostedReward": 0, 
-"boostingAddress": "0x0000000000000000000000000000000000000000", 
-"additionalData": "0x", 
-"pair": "USDC natice-axlUSDC", 
-"ALM": "all"
-},
-{
-"id": 36, 
+"id": 32, 
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0xD6e486c197606559946384AE2624367d750A160f", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
@@ -680,7 +640,7 @@
 "ALM": "all"
 },
 {
-"id": 37, 
+"id": 33, 
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0x6DE6e95DeFc0904001c64b19a187a347cb8023c0", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
@@ -700,7 +660,7 @@
 "ALM": "all"
 },
 {
-"id": 38, 
+"id": 34, 
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0xBf3036C5c55bdb36ae505f96F4C40c92E782E9f6", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
@@ -720,7 +680,7 @@
 "ALM": "all"
 },
 {
-"id": 39, 
+"id": 35, 
 "rewardId": "0x0000000000000000000000000000000000000000000000000000000000000000", 
 "uniV3Pool": "0xfa3887F0e6f57831453E3aa2e284FE091ACf6a67", 
 "rewardToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17", 
